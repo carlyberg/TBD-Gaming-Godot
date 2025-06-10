@@ -1,3 +1,23 @@
-[gd_scene format=3 uid="uid://pyrvluxxc1va"]
+[gd_scene load_steps=2 format=3 uid="uid://pyrvluxxc1va"]
 
-[node name="Node" type="Node"]
+[ext_resource type="Texture2D" uid="uid://pxh601grh1n4" path="res://Grass Block.png" id="1_b8dqn"]
+
+[node name="Game_Level" type="Node"]
+
+[node name="ColorRect" type="ColorRect" parent="."]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(0.337255, 0.592157, 0.364706, 1)
+
+[node name="TextureRect" type="TextureRect" parent="."]
+texture_filter = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("1_b8dqn")
+stretch_mode = 1
