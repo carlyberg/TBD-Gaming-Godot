@@ -1,6 +1,7 @@
-[gd_scene load_steps=2 format=3 uid="uid://pyrvluxxc1va"]
+[gd_scene load_steps=3 format=3 uid="uid://pyrvluxxc1va"]
 
 [ext_resource type="Texture2D" uid="uid://pxh601grh1n4" path="res://Grass Block.png" id="1_b8dqn"]
+[ext_resource type="PackedScene" uid="uid://d37k5s5ieftwk" path="res://farmer.tscn" id="2_8yqow"]
 
 [node name="Game_Level" type="Node"]
 
@@ -21,3 +22,6 @@ grow_horizontal = 2
 grow_vertical = 2
 texture = ExtResource("1_b8dqn")
 stretch_mode = 1
+
+[node name="Farmer" parent="." instance=ExtResource("2_8yqow")]
+position = Vector2(288, 352)
