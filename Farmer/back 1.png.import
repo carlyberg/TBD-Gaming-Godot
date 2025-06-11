@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dn60cu7v0fyjf"
-path="res://.godot/imported/Farmer Right.png-3788d590eb055c11d1c976487badfe17.ctex"
+uid="uid://ovst5jgmfulm"
+path="res://.godot/imported/back 1.png-c95279f8b96d456af66ea418827249eb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Farmer/Farmer Right.png"
-dest_files=["res://.godot/imported/Farmer Right.png-3788d590eb055c11d1c976487badfe17.ctex"]
+source_file="res://Farmer/back 1.png"
+dest_files=["res://.godot/imported/back 1.png-c95279f8b96d456af66ea418827249eb.ctex"]
 
 [params]
 

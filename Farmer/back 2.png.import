@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ca3gpp1mcbnbr"
-path="res://.godot/imported/Farmer Front 2.png-302ddd25c33d4073ea92256d3fef999e.ctex"
+uid="uid://ca5gg60gkn672"
+path="res://.godot/imported/back 2.png-2c51c2a306604748c42203cc997cc0ca.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Farmer/Farmer Front 2.png"
-dest_files=["res://.godot/imported/Farmer Front 2.png-302ddd25c33d4073ea92256d3fef999e.ctex"]
+source_file="res://Farmer/back 2.png"
+dest_files=["res://.godot/imported/back 2.png-2c51c2a306604748c42203cc997cc0ca.ctex"]
 
 [params]
 

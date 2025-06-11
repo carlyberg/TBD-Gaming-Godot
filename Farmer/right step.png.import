@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cpmqrseohf8q3"
-path="res://.godot/imported/Farmer Left.png-51a55c2d18e9ab63e433d57b00208a61.ctex"
+uid="uid://cxwaawj2ou5ir"
+path="res://.godot/imported/right step.png-d37fcdf79db3d9daf2a6dae63e6e9283.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Farmer/Farmer Left.png"
-dest_files=["res://.godot/imported/Farmer Left.png-51a55c2d18e9ab63e433d57b00208a61.ctex"]
+source_file="res://Farmer/right step.png"
+dest_files=["res://.godot/imported/right step.png-d37fcdf79db3d9daf2a6dae63e6e9283.ctex"]
 
 [params]
 
